@@ -15,3 +15,6 @@ func update(delta):
 func physics_update(delta):
 	player.gravity(delta)
 	
+func exit():
+	player.velocity.y = 0
+	

@@ -14,7 +14,6 @@ func update(delta):
 	return null
 
 func physics_update(delta):
-	player.get_gravity()
 	if player.jump_input:
 		player.velocity.y =  -jump_velocity
 	

@@ -18,6 +18,7 @@ func _ready() -> void:
 func _process(delta: float) -> void:
 	movement_input()
 	move_and_slide()
+	gravity(delta)
 	print("velocity",velocity)
 	
 
