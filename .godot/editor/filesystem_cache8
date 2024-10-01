@@ -1,5 +1,5 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1727637594
+::res://::1727771762
 icon.svg::CompressedTexture2D::9103109528062558110::1727512648::1727512655::1::::<><>::
 ::res://assets/::1727512859
 Background.png::CompressedTexture2D::4103008252949068532::1720815978::1727512859::1::::<><>::
@@ -284,14 +284,14 @@ ToxicFrogPurpleWhite_Hop.png::CompressedTexture2D::4507307091863394415::17225944
 ToxicFrogPurpleWhite_Hurt.png::CompressedTexture2D::7808537118751747668::1722594493::1727512859::1::::<><>::
 ToxicFrogPurpleWhite_Idle.png::CompressedTexture2D::3956503637958732451::1722594493::1727512859::1::::<><>::
 ToxicFrogPurpleWhite_Sheet.png::CompressedTexture2D::4479474438645249620::1722594493::1727512859::1::::<><>::
-::res://scenes/::1727637416
-player.tscn::PackedScene::2923838342699295862::1727637416::0::1::::<><>::uid://c2autnt857cb5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/Fall 0 Sprite Sheet.png<>res://scripts/player.gd<>uid://c1ye5fg74x4cp::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/50x50/Idle Sprite 1.png<>uid://bfnwupoxl6ba7::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/50x50/Jump Sprite 0.png<>uid://d0x0chiptpay5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/50x50/Run Sprite 0.png<>res://scripts/state_machine.gd<>res://scripts/Idle.gd<>res://scripts/run.gd<>res://scripts/jump.gd<>res://scripts/fall.gd
-world.tscn::PackedScene::8368547637345596917::1727637416::0::1::::<><>::uid://d2xu5b3vgmthe::::res://icon.svg<>uid://bhwlgqatwnf63::::res://scenes/player.tscn
-::res://scripts/::1727637412
-fall.gd::GDScript::-1::1727637412::0::1::::playerfall<>State<>::
+::res://scenes/::1727703105
+player.tscn::PackedScene::2923838342699295862::1727703105::0::1::::<><>::uid://c2autnt857cb5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/Fall 0 Sprite Sheet.png<>res://scripts/player.gd<>uid://c1ye5fg74x4cp::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/50x50/Idle Sprite 1.png<>uid://bfnwupoxl6ba7::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/50x50/Jump Sprite 0.png<>uid://d0x0chiptpay5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/50x50/Run Sprite 0.png<>res://scripts/state_machine.gd<>res://scripts/Idle.gd<>res://scripts/run.gd<>res://scripts/jump.gd<>res://scripts/fall.gd
+world.tscn::PackedScene::8368547637345596917::1727702868::0::1::::<><>::uid://d2xu5b3vgmthe::::res://icon.svg<>uid://bhwlgqatwnf63::::res://scenes/player.tscn
+::res://scripts/::1727703105
+fall.gd::GDScript::-1::1727639621::0::1::::playerfall<>State<>::
 Idle.gd::GDScript::-1::1727633336::0::1::::playerIdle<>State<>::
-jump.gd::GDScript::-1::1727637393::0::1::::playerjump<>State<>::
-player.gd::GDScript::-1::1727637215::0::1::::<>CharacterBody2D<>::
+jump.gd::GDScript::-1::1727702679::0::1::::playerjump<>State<>::
+player.gd::GDScript::-1::1727702864::0::1::::<>CharacterBody2D<>::
 run.gd::GDScript::-1::1727633127::0::1::::playerrun<>State<>::
-state.gd::GDScript::-1::1727523130::0::1::::State<>Node<>::
-state_machine.gd::GDScript::-1::1727633127::0::1::::<>Node<>::
+state.gd::GDScript::-1::1727703105::0::1::::State<>Node<>::
+state_machine.gd::GDScript::-1::1727702679::0::1::::<>Node<>::

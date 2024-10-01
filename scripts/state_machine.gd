@@ -4,7 +4,7 @@ var current_state : State
 var states : Dictionary = {}
 
 @export var initial_state : State
-
+@export var player : CharacterBody2D 
 func _ready() -> void:
 	for child in get_children():
 		if child is State:

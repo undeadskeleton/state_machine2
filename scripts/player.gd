@@ -16,9 +16,10 @@ func _ready() -> void:
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
+	if not is_on_floor():
+		velocity.y += delta * gravity_value
 	movement_input()
 	move_and_slide()
-	gravity(delta)
 	print("velocity",velocity)
 	
 
@@ -34,13 +35,13 @@ func movement_input():
 		jump_input = true
 
 func handle_animation():
-	if velocity.x ==0:
+	if velocity == Vector2.ZERO:
 		anispr.play("idle")
-	elif velocity.x > 0:
+	if velocity.x != 0:
 		anispr.play("run")
-	elif velocity.y <0:
+	if velocity.y < 0:
 		anispr.play("jump")
-	elif velocity.y>0 and !is_on_floor():
+	if velocity.y>0 and !is_on_floor():
 		anispr.play("fall")
 
 func gravity(delta):

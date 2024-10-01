@@ -2,7 +2,8 @@ extends Node
 class_name State
 
 signal Transitioned
-  
+@onready var anispr: AnimatedSprite2D = $AnimatedSprite2D
+
 
 func enter():
 	pass

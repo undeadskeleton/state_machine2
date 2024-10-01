@@ -169,9 +169,10 @@ sprite_frames = SubResource("SpriteFrames_fff63")
 animation = &"idle"
 autoplay = "idle"
 
-[node name="State_Machine" type="Node" parent="." node_paths=PackedStringArray("initial_state")]
+[node name="State_Machine" type="Node" parent="." node_paths=PackedStringArray("initial_state", "player")]
 script = ExtResource("6_csls5")
 initial_state = NodePath("IDLE")
+player = NodePath("..")
 
 [node name="IDLE" type="Node" parent="State_Machine" node_paths=PackedStringArray("player")]
 script = ExtResource("7_w8mur")
