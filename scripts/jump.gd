@@ -9,13 +9,16 @@ func enter():
 	pass
 
 func update(delta):
-	player.gravity(delta)
+	#player.gravity(delta)
+	if not player.is_on_floor():
+		player.velocity.y += delta * gravity_value
 	if player.velocity.y > 0:
 		Transitioned.emit(self,"fall")
 	return null
 
 func physics_update(delta):
-	player.gravity(delta)
+	if not player.is_on_floor():
+		player.velocity.y += delta * gravity_value
 	if player.jump_input:
 		player.velocity.y =  -jump_velocity
 
