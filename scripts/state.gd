@@ -2,11 +2,12 @@ extends Node
 class_name State
 
 signal Transitioned
-@onready var anispr: AnimatedSprite2D = $AnimatedSprite2D
+@export var animation_name : String
 
-
-func enter():
-	pass
+var gravity_value = ProjectSettings.get_setting("physics/2d/default_gravity")
+var player : Player
+func enter()-> void:
+	player.anispr.play(animation_name)
 	
 func exit():
 	pass

@@ -1,5 +1,6 @@
 extends CharacterBody2D
 
+class_name Player
 
 #movement 
 var speed : int = 80

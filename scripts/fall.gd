@@ -2,8 +2,7 @@ extends State
 class_name playerfall
 
 
-@export var player : CharacterBody2D
-@export var gravity_value : int = 800
+
 
 func enter():
 	player.get_gravity()
@@ -11,9 +10,10 @@ func enter():
 func update(delta):
 	if player.velocity.y == 0 :
 		Transitioned.emit(self,"idle")
+	return null
 
 func physics_update(delta):
-	player.gravity(delta)
+	player.velocity.y += gravity_value * delta
 	
 func exit():
 	player.velocity.y = 0

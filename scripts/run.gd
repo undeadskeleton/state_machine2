@@ -1,7 +1,6 @@
 extends State
 class_name playerrun
 
-@export var player : CharacterBody2D
 @export var speed : int = 50
 
 
