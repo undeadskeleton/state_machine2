@@ -7,6 +7,7 @@ var speed : int = 80
 var dir 
 var jump_input : bool
 var dash : bool
+var can_dash : bool
 #animation
 
 @onready var animation: AnimatedSprite2D = $AnimatedSprite2D

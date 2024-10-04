@@ -1,6 +1,6 @@
 extends State
 
-var can_dash : bool
+
 @export var dash_distance : int 
 @export var player : CharacterBody2D
 
@@ -9,8 +9,9 @@ func update(delta):
 		Transitioned.emit(self,"idle")
 	
 func physics_update(delta):
-	if player.dash:
+	if player.dash and player.can_dash:
 		player.velocity.x = dash_distance 
+		player.can_dash = false
 
 func exit():
-	can_dash = false
+	pass
