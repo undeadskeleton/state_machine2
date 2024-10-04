@@ -1,10 +1,11 @@
+State
+Node
 Label
 Camera2D
 playerfall
 playerjump
 playerrun
 playerIdle
-Node
 AnimatedSprite2D
 CollisionShape2D
 StaticBody2D

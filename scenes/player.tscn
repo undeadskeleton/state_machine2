@@ -1,4 +1,4 @@
-[gd_scene load_steps=30 format=3 uid="uid://bhwlgqatwnf63"]
+[gd_scene load_steps=31 format=3 uid="uid://bhwlgqatwnf63"]
 
 [ext_resource type="Texture2D" uid="uid://c2autnt857cb5" path="res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/Fall 0 Sprite Sheet.png" id="1_cn6pc"]
 [ext_resource type="Script" path="res://scripts/player.gd" id="1_lp0ej"]
@@ -10,6 +10,7 @@
 [ext_resource type="Script" path="res://scripts/run.gd" id="8_cuat0"]
 [ext_resource type="Script" path="res://scripts/jump.gd" id="9_v28jy"]
 [ext_resource type="Script" path="res://scripts/fall.gd" id="10_d3ibk"]
+[ext_resource type="Script" path="res://scripts/dash.gd" id="11_mltn1"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_sor0f"]
 radius = 7.0
@@ -193,6 +194,11 @@ animation_name = "jump"
 script = ExtResource("10_d3ibk")
 player = NodePath("../..")
 animation_name = "fall"
+
+[node name="DASH" type="Node" parent="State_Machine" node_paths=PackedStringArray("player")]
+script = ExtResource("11_mltn1")
+dash_distance = 100
+player = NodePath("../..")
 
 [node name="Camera2D" type="Camera2D" parent="."]
 zoom = Vector2(2, 2)

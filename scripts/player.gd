@@ -6,7 +6,7 @@ var speed : int = 80
 @export var gravity_value : int = 400
 var dir 
 var jump_input : bool
-
+var dash : bool
 #animation
 
 @onready var animation: AnimatedSprite2D = $AnimatedSprite2D
@@ -35,6 +35,10 @@ func movement_input():
 		"""
 	if Input.is_action_just_pressed("jump"):
 		jump_input = true
+	if Input.is_action_just_pressed("dash"):
+		dash = true
+	else:
+		dash = false
 
 func handle_animation():
 	if velocity == Vector2.ZERO:

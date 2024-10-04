@@ -7,3 +7,4 @@ res://scripts/state.gd
 res://scripts/run.gd
 res://scripts/jump.gd
 res://scripts/fall.gd
+res://scripts/dash.gd
