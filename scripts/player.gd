@@ -1,6 +1,5 @@
 extends CharacterBody2D
 
-class_name Player
 
 #movement 
 var speed : int = 80
@@ -9,7 +8,8 @@ var dir
 var jump_input : bool
 
 #animation
-@onready var anispr = $AnimatedSprite2D
+
+@onready var animation: AnimatedSprite2D = $AnimatedSprite2D
 
 func _ready() -> void:
 	pass # Replace with function body.
@@ -21,6 +21,7 @@ func _process(delta: float) -> void:
 		velocity.y += delta * gravity_value
 	movement_input()
 	move_and_slide()
+	handle_animation()
 	print("velocity",velocity)
 	
 
@@ -37,13 +38,17 @@ func movement_input():
 
 func handle_animation():
 	if velocity == Vector2.ZERO:
-		anispr.play("idle")
-	if velocity.x != 0:
-		anispr.play("run")
+		animation.play("idle")
+	if velocity.x !=0:
+		if velocity.x > 0:
+			animation.flip_h = false
+		elif velocity.x <0:
+			animation.flip_h = true
+		animation.play("run")
 	if velocity.y < 0:
-		anispr.play("jump")
+		animation.play("jump")
 	if velocity.y>0 and !is_on_floor():
-		anispr.play("fall")
+		animation.play("fall")
 
 func gravity(delta):
 	if not is_on_floor():

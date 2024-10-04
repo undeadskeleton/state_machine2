@@ -2,13 +2,14 @@ extends State
 class_name playerfall
 
 
-
+@export var player: CharacterBody2D
 
 func enter():
 	player.get_gravity()
+	player.jump_input = false
 	
 func update(delta):
-	if player.velocity.y == 0 :
+	if player.is_on_floor() :
 		Transitioned.emit(self,"idle")
 	return null
 

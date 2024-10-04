@@ -2,8 +2,7 @@ extends State
 
 class_name playerIdle
 
-
-
+@export var player : CharacterBody2D
 
 func update(delta):
 	if player.dir:

@@ -1,9 +1,9 @@
-res://scenes/player.tscn
-res://scripts/state.gd
 res://scenes/world.tscn
-res://scripts/Idle.gd
-res://scripts/fall.gd
-res://scripts/jump.gd
-res://scripts/run.gd
 res://scripts/player.gd
+res://scenes/player.tscn
 res://scripts/state_machine.gd
+res://scripts/Idle.gd
+res://scripts/state.gd
+res://scripts/run.gd
+res://scripts/jump.gd
+res://scripts/fall.gd

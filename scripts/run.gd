@@ -2,7 +2,7 @@ extends State
 class_name playerrun
 
 @export var speed : int = 50
-
+@export var player : CharacterBody2D
 
 	
 func update(delta):

@@ -1,8 +1,8 @@
 extends State
 class_name playerjump
 
-@export var jump_velocity : int = 100
-
+@export var jump_velocity : int = 800
+@export var player : CharacterBody2D
 func enter():
 	if player.jump_input:
 		player.velocity.y =  -jump_velocity
@@ -18,4 +18,4 @@ func physics_update(delta):
 	player.velocity.y += delta * gravity_value
 
 func exit():
-	player.jump_input = false
+	pass

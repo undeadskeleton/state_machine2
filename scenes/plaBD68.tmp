@@ -174,24 +174,21 @@ script = ExtResource("6_csls5")
 initial_state = NodePath("IDLE")
 player = NodePath("..")
 
-[node name="IDLE" type="Node" parent="State_Machine" node_paths=PackedStringArray("player")]
+[node name="IDLE" type="Node" parent="State_Machine"]
 script = ExtResource("7_w8mur")
-player = NodePath("../..")
 animation_name = "idle"
 
-[node name="RUN" type="Node" parent="State_Machine" node_paths=PackedStringArray("player")]
+[node name="RUN" type="Node" parent="State_Machine"]
 script = ExtResource("8_cuat0")
-player = NodePath("../..")
 animation_name = "run"
 
-[node name="JUMP" type="Node" parent="State_Machine" node_paths=PackedStringArray("player")]
+[node name="JUMP" type="Node" parent="State_Machine"]
 script = ExtResource("9_v28jy")
-player = NodePath("../..")
+jump_velocity = 500
 animation_name = "jump"
 
-[node name="FALL" type="Node" parent="State_Machine" node_paths=PackedStringArray("player")]
+[node name="FALL" type="Node" parent="State_Machine"]
 script = ExtResource("10_d3ibk")
-player = NodePath("../..")
 animation_name = "fall"
 
 [node name="Camera2D" type="Camera2D" parent="."]
