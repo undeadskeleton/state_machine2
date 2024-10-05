@@ -1,7 +1,7 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728033079
+::res://::1728121538
 icon.svg::CompressedTexture2D::9103109528062558110::1727512648::1728033087::1::::<><>::
-::res://assets/::1727952743
+::res://assets/::1728033087
 Background.png::CompressedTexture2D::4103008252949068532::1720815978::1728033087::1::::<><>::
 BlockWithShade.png::CompressedTexture2D::5357339299724671005::1720815978::1728033087::1::::<><>::
 Bushes-16x16.png::CompressedTexture2D::1966988585960101032::1720815978::1728033087::1::::<><>::
@@ -9,52 +9,52 @@ House1.png::CompressedTexture2D::559098798280636858::1720815978::1728033087::1::
 TileSet-36x36.png::CompressedTexture2D::3761977876347276288::1720815978::1728033087::1::::<><>::
 Tree1.png::CompressedTexture2D::8731664924936663159::1720815978::1728033087::1::::<><>::
 ::res://assets/Bat/::1727512848
-::res://assets/Bat/Albino/::1727952743
+::res://assets/Bat/Albino/::1728033087
 BatAlbino_Attack.png::CompressedTexture2D::2784305027074092188::1721101797::1728033087::1::::<><>::
 BatAlbino_Death.png::CompressedTexture2D::1811759581801210156::1721101797::1728033087::1::::<><>::
 BatAlbino_Flying.png::CompressedTexture2D::3204259823846920720::1721101797::1728033087::1::::<><>::
 BatAlbino_Hurt.png::CompressedTexture2D::7749700714536500595::1721101797::1728033087::1::::<><>::
 BatAlbino_Sheet.png::CompressedTexture2D::2011496314978155435::1721101797::1728033087::1::::<><>::
 BatAlbino_Sleeping.png::CompressedTexture2D::3602556655882063961::1721101797::1728033087::1::::<><>::
-::res://assets/Bat/Fire/::1727952743
+::res://assets/Bat/Fire/::1728033087
 BatFire_Attack.png::CompressedTexture2D::4352284360336771505::1721101797::1728033087::1::::<><>::
 BatFire_Death.png::CompressedTexture2D::1728834080948949356::1721101797::1728033087::1::::<><>::
 BatFire_Flying.png::CompressedTexture2D::2516036403918257920::1721101797::1728033087::1::::<><>::
 BatFire_Hurt.png::CompressedTexture2D::3245757980250463981::1721101797::1728033087::1::::<><>::
 BatFire_Sheet.png::CompressedTexture2D::27848307716082962::1721101797::1728033087::1::::<><>::
 BatFire_Sleeping.png::CompressedTexture2D::3884979593131621442::1721101797::1728033087::1::::<><>::
-::res://assets/Bat/Root/::1727952743
+::res://assets/Bat/Root/::1728033087
 BatRoot_Attack.png::CompressedTexture2D::4890713937752299216::1721101797::1728033087::1::::<><>::
 BatRoot_Death.png::CompressedTexture2D::4041791768527794834::1721101797::1728033087::1::::<><>::
 BatRoot_Flying.png::CompressedTexture2D::7773922767927134668::1721101797::1728033087::1::::<><>::
 BatRoot_Hurt.png::CompressedTexture2D::8312276298573948252::1721101797::1728033087::1::::<><>::
 BatRoot_Sheet.png::CompressedTexture2D::1218050198103317853::1721101797::1728033087::1::::<><>::
 BatRoot_Sleeping.png::CompressedTexture2D::2680429271991022885::1721101797::1728033087::1::::<><>::
-::res://assets/Bat/Standard/::1727952743
+::res://assets/Bat/Standard/::1728033087
 BatStandard_Attack.png::CompressedTexture2D::4001173687605878009::1721101797::1728033087::1::::<><>::
 BatStandard_Death.png::CompressedTexture2D::3158050333304118374::1721101797::1728033087::1::::<><>::
 BatStandard_Flying.png::CompressedTexture2D::7986549220240684978::1721101797::1728033087::1::::<><>::
 BatStandard_Hurt.png::CompressedTexture2D::7034760599100743804::1721101797::1728033087::1::::<><>::
 BatStandard_Sheet.png::CompressedTexture2D::4144257842264993967::1721101797::1728033087::1::::<><>::
 BatStandard_Sleeping.png::CompressedTexture2D::4372460608199752095::1721101797::1728033087::1::::<><>::
-::res://assets/Bat/Vampire/::1727952743
+::res://assets/Bat/Vampire/::1728033087
 BatVampire_Attack.png::CompressedTexture2D::8248194964070876445::1721101797::1728033087::1::::<><>::
 BatVampire_Death.png::CompressedTexture2D::7569974813819680142::1721101797::1728033087::1::::<><>::
 BatVampire_Flying.png::CompressedTexture2D::6916470950599876657::1721101797::1728033087::1::::<><>::
 BatVampire_Hurt.png::CompressedTexture2D::3769211781676601771::1721101797::1728033087::1::::<><>::
 BatVampire_Sheet.png::CompressedTexture2D::2479469564674723499::1721101797::1728033087::1::::<><>::
 BatVampire_Sleeping.png::CompressedTexture2D::5539242534139490723::1721101797::1728033087::1::::<><>::
-::res://assets/Bat/Zombie/::1727952743
+::res://assets/Bat/Zombie/::1728033088
 BatZombie_Attack.png::CompressedTexture2D::6568073560281723718::1721101797::1728033087::1::::<><>::
 BatZombie_Death.png::CompressedTexture2D::6527840588885544221::1721101797::1728033087::1::::<><>::
 BatZombie_Flying.png::CompressedTexture2D::1159861169896860017::1721101797::1728033087::1::::<><>::
 BatZombie_Hurt.png::CompressedTexture2D::4496107212851258155::1721101797::1728033087::1::::<><>::
 BatZombie_Sheet.png::CompressedTexture2D::3136708658930008404::1721101797::1728033087::1::::<><>::
 BatZombie_Sleeping.png::CompressedTexture2D::2611191193993021842::1721101797::1728033087::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/::1727952743
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/::1728033087
 Dacian.jpg::CompressedTexture2D::3141647294790322157::1720815978::1728033087::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Attack/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Attack/50x50/::1727952743
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Attack/50x50/::1728033087
 Attack 0-0.png::CompressedTexture2D::1577377320301930002::1720815978::1728033087::1::::<><>::
 Attack 0-1 Sprite Sheet.png::CompressedTexture2D::4026759230891004277::1720815978::1728033087::1::::<><>::
 Attack 0-1.png::CompressedTexture2D::7294365329839026392::1720815978::1728033087::1::::<><>::
@@ -68,7 +68,7 @@ Attack 1-2.png::CompressedTexture2D::3294901268231900007::1720815978::1728033087
 Attack 1-3.png::CompressedTexture2D::5990228705739127195::1720815978::1728033087::1::::<><>::
 Attack Sprite 0.png::CompressedTexture2D::9037690164699609975::1720815978::1728033087::1::::<><>::
 Attack Sprite 1.png::CompressedTexture2D::3551032832816212137::1720815978::1728033087::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Attack/100x100/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Attack/100x100/::1728033088
 Attack 0-1.png::CompressedTexture2D::3163903132766659196::1720815978::1728033087::1::::<><>::
 Attack 0-2.png::CompressedTexture2D::3951303593057323907::1720815978::1728033087::1::::<><>::
 Attack 0-3.png::CompressedTexture2D::329962184775664375::1720815978::1728033087::1::::<><>::
@@ -83,27 +83,27 @@ Attack Sprite 0-1.png::CompressedTexture2D::4542711750647058020::1720815978::172
 Attack Sprite 0.png::CompressedTexture2D::5370919959803653197::1720815978::1728033087::1::::<><>::
 Attack Sprite 1.png::CompressedTexture2D::379196265011947822::1720815978::1728033088::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Climb-GoDown/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Climb-GoDown/50x50/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Climb-GoDown/50x50/::1728033088
 Climb-Down Sprite Sheet.png::CompressedTexture2D::556860773993937296::1720815978::1728033088::1::::<><>::
 Climb-Down-0.png::CompressedTexture2D::8216807153349980511::1720815978::1728033088::1::::<><>::
 Climb-Down-1.png::CompressedTexture2D::270947324610769890::1720815978::1728033088::1::::<><>::
 Climb-Down-2.png::CompressedTexture2D::3577208636140166247::1720815978::1728033088::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Climb-GoDown/100x100/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Climb-GoDown/100x100/::1728033088
 Climb-Down Sprite Sheet.png::CompressedTexture2D::7131946312980518585::1720815978::1728033088::1::::<><>::
 Climb-Down-0.png::CompressedTexture2D::2173797170241989280::1720815978::1728033088::1::::<><>::
 Climb-Down-1.png::CompressedTexture2D::1968677948704582186::1720815978::1728033088::1::::<><>::
 Climb-Down-2.png::CompressedTexture2D::6451618742781864423::1720815978::1728033088::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Crouch/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Crouch/50x50/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Crouch/50x50/::1728033088
 Crouch 0-0.png::CompressedTexture2D::552117361715106029::1720815978::1728033088::1::::<><>::
 Crouch 0-1.png::CompressedTexture2D::4048149891736592678::1720815978::1728033088::1::::<><>::
 Crouch Sprite Sheet.png::CompressedTexture2D::8114271612930646778::1720815978::1728033088::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Crouch/100x100/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Crouch/100x100/::1728033088
 Crouch 0 Sprite Sheet.png::CompressedTexture2D::2213631713536681970::1720815978::1728033088::1::::<><>::
 Crouch 0-0.png::CompressedTexture2D::3029378965591607126::1720815978::1728033088::1::::<><>::
 Crouch 0-1.png::CompressedTexture2D::1500658373478639861::1720815978::1728033088::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Dead/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Dead/50x50/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Dead/50x50/::1728033088
 Dead 0 Sprite Sheet.png::CompressedTexture2D::8464431482154656497::1720815978::1728033088::1::::<><>::
 Dead 0-0.png::CompressedTexture2D::8914863699637665839::1720815978::1728033088::1::::<><>::
 Dead 0-1.png::CompressedTexture2D::7923482572015663681::1720815978::1728033088::1::::<><>::
@@ -119,7 +119,7 @@ Dead 1-4.png::CompressedTexture2D::8311195348021341246::1720815978::1728033088::
 Dead 1-5.png::CompressedTexture2D::1578251204535741890::1720815978::1728033088::1::::<><>::
 Dead 1-6.png::CompressedTexture2D::9186377301995064699::1720815978::1728033088::1::::<><>::
 Dead 1-7.png::CompressedTexture2D::2475717317625724153::1720815978::1728033088::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Dead/100x100/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Dead/100x100/::1728033088
 Dead 0 Sprite Sheet.png::CompressedTexture2D::1132582279649756630::1720815978::1728033088::1::::<><>::
 Dead 0-0.png::CompressedTexture2D::8191712272166361452::1720815978::1728033088::1::::<><>::
 Dead 0-1.png::CompressedTexture2D::7277682870972495941::1720815978::1728033088::1::::<><>::
@@ -136,14 +136,14 @@ Dead 1-5.png::CompressedTexture2D::1713548440425799659::1720815978::1728033088::
 Dead 1-6.png::CompressedTexture2D::1104313042240072259::1720815978::1728033088::1::::<><>::
 Dead 1-7.png::CompressedTexture2D::2164572769866323510::1720815978::1728033088::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/::1728033088
 Fall 0 Sprite Sheet.png::CompressedTexture2D::6669189129248153736::1720815978::1728033088::1::::<><>::
 Fall 0-0.png::CompressedTexture2D::7193951188321328657::1720815978::1728033088::1::::<><>::
 Fall 0-1.png::CompressedTexture2D::2479853355304394911::1720815978::1728033088::1::::<><>::
 Fall 1 Sprite Sheet.png::CompressedTexture2D::6328934722305064039::1720815978::1728033088::1::::<><>::
 Fall 1-0.png::CompressedTexture2D::7182401844376850753::1720815978::1728033088::1::::<><>::
 Fall 1-1.png::CompressedTexture2D::2308788251182704405::1720815978::1728033088::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/100x100/::1727952744
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/100x100/::1728033088
 Fall 0 Sprite Sheet.png::CompressedTexture2D::1867788741416918245::1720815978::1728033088::1::::<><>::
 Fall 0-0.png::CompressedTexture2D::2821261778490078571::1720815978::1728033088::1::::<><>::
 Fall 0-1.png::CompressedTexture2D::6656190259954129604::1720815978::1728033088::1::::<><>::
@@ -151,7 +151,7 @@ Fall 1 Sprite Sheet.png::CompressedTexture2D::5101545911898304786::1720815978::1
 Fall 1-0.png::CompressedTexture2D::3323232597091415::1720815978::1728033088::1::::<><>::
 pixil-frame-1.png::CompressedTexture2D::8341308022168013508::1720815978::1728033088::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/50x50/::1727952742
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/50x50/::1728033088
 Idle 0-0.png::CompressedTexture2D::2014575591228992612::1720815978::1728033088::1::::<><>::
 Idle 0-1.png::CompressedTexture2D::3468772726166409263::1720815978::1728033088::1::::<><>::
 Idle 0-2.png::CompressedTexture2D::4705890740246636041::1720815978::1728033088::1::::<><>::
@@ -169,7 +169,7 @@ Idle Sprite 0.png::CompressedTexture2D::453670674795714788::1720815978::17280330
 Idle Sprite 1.png::CompressedTexture2D::6647593083239893583::1720815978::1728033086::1::::<><>::
 Idle Sprite 2.png::CompressedTexture2D::2452142255432834081::1720815978::1728033086::1::::<><>::
 Idle Sprite 3.png::CompressedTexture2D::2439176286329853464::1720815978::1728033086::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/100x100/::1727952742
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/100x100/::1728033087
 Idle 0-0.png::CompressedTexture2D::7600548358641721290::1720815978::1728033086::1::::<><>::
 Idle 0-1.png::CompressedTexture2D::1892716538740248607::1720815978::1728033086::1::::<><>::
 Idle 0-2.png::CompressedTexture2D::1808413637374471487::1720815978::1728033086::1::::<><>::
@@ -188,14 +188,14 @@ Idle Sprite 1.png::CompressedTexture2D::1598516153098713446::1720815978::1728033
 Idle Sprite 2.png::CompressedTexture2D::5223544060712123798::1720815978::1728033087::1::::<><>::
 Idle Sprite 3.png::CompressedTexture2D::6193979613857071576::1720815978::1728033087::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/::1727512849
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/50x50/::1727952742
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/50x50/::1728033087
 Jump 0-0.png::CompressedTexture2D::3779782777986194973::1720815978::1728033087::1::::<><>::
 Jump 0-1.png::CompressedTexture2D::3896290997842218358::1720815978::1728033086::1::::<><>::
 Jump 0-2.png::CompressedTexture2D::1556109645126826362::1720815978::1728033086::1::::<><>::
 Jump 0-3.png::CompressedTexture2D::8433508196894089830::1720815978::1728033086::1::::<><>::
 Jump 0-4.png::CompressedTexture2D::8650427533450863936::1720815978::1728033086::1::::<><>::
 Jump Sprite 0.png::CompressedTexture2D::2765574112943448236::1720815978::1728033086::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/100x100/::1727952742
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/100x100/::1728033086
 Jump 0-0.png::CompressedTexture2D::1744745408680343998::1720815978::1728033086::1::::<><>::
 Jump 0-1.png::CompressedTexture2D::39247267542416016::1720815978::1728033086::1::::<><>::
 Jump 0-2.png::CompressedTexture2D::6465083391379641022::1720815978::1728033086::1::::<><>::
@@ -203,7 +203,7 @@ Jump 0-3.png::CompressedTexture2D::8712955388959627259::1720815978::1728033086::
 Jump 0-4.png::CompressedTexture2D::1272239345116902127::1720815978::1728033086::1::::<><>::
 Jump Sprite 0.png::CompressedTexture2D::2421038640982301912::1720815978::1728033086::1::::<><>::
 ::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/::1727512850
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/50x50/::1727952743
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/50x50/::1728033086
 Run 0-0.png::CompressedTexture2D::2769531402716169417::1720815978::1728033086::1::::<><>::
 Run 0-1.png::CompressedTexture2D::7901182065797382054::1720815978::1728033086::1::::<><>::
 Run 0-2.png::CompressedTexture2D::2453654279920185478::1720815978::1728033086::1::::<><>::
@@ -222,7 +222,7 @@ Run 2-4.png::CompressedTexture2D::1941161925236080591::1720815978::1728033086::1
 Run Sprite 0.png::CompressedTexture2D::8962985707509857494::1720815978::1728033086::1::::<><>::
 Run Sprite 1.png::CompressedTexture2D::1195566510555100659::1720815978::1728033086::1::::<><>::
 Run Sprite 2.png::CompressedTexture2D::1012990198289183853::1720815978::1728033086::1::::<><>::
-::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/100x100/::1727952743
+::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/100x100/::1728033087
 Run 0-0.png::CompressedTexture2D::3410412856401496043::1720815978::1728033086::1::::<><>::
 Run 0-1.png::CompressedTexture2D::2190222037731893913::1720815978::1728033087::1::::<><>::
 Run 0-2.png::CompressedTexture2D::8558884953668554049::1720815978::1728033087::1::::<><>::
@@ -242,56 +242,57 @@ Run Sprite 0.png::CompressedTexture2D::4211363278981063842::1720815978::17280330
 Run Sprite 1.png::CompressedTexture2D::4061495620350034627::1720815978::1728033087::1::::<><>::
 Run Sprite 2.png::CompressedTexture2D::1759885443602709918::1720815978::1728033087::1::::<><>::
 ::res://assets/ToxicFrog/::1727512850
-::res://assets/ToxicFrog/BlueBlue/::1727952743
+::res://assets/ToxicFrog/BlueBlue/::1728033087
 ToxicFrogBlueBlue_Attack.png::CompressedTexture2D::7921150912431639247::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBlue_Explosion.png::CompressedTexture2D::1217304034441914312::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBlue_Hop.png::CompressedTexture2D::6003671850789501219::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBlue_Hurt.png::CompressedTexture2D::1840597097353583942::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBlue_Idle.png::CompressedTexture2D::3447543568524907782::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBlue_Sheet.png::CompressedTexture2D::6584748013359310122::1722594493::1728033087::1::::<><>::
-::res://assets/ToxicFrog/BlueBrown/::1727952742
+::res://assets/ToxicFrog/BlueBrown/::1728033087
 ToxicFrogBlueBrown_Attack.png::CompressedTexture2D::8797225639810123596::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBrown_Explosion.png::CompressedTexture2D::4831507528884775319::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBrown_Hop.png::CompressedTexture2D::7519552674360368555::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBrown_Hurt.png::CompressedTexture2D::9160342083182278080::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBrown_Idle.png::CompressedTexture2D::7668899150932226580::1722594493::1728033087::1::::<><>::
 ToxicFrogBlueBrown_Sheet.png::CompressedTexture2D::6702040153962962779::1722594493::1728033087::1::::<><>::
-::res://assets/ToxicFrog/GreenBlue/::1727952743
+::res://assets/ToxicFrog/GreenBlue/::1728033087
 ToxicFrogGreenBlue_Attack.png::CompressedTexture2D::7069235773870782919::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBlue_Explosion.png::CompressedTexture2D::2331248116999430071::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBlue_Hop.png::CompressedTexture2D::1632764716523528839::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBlue_Hurt.png::CompressedTexture2D::98144091537790164::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBlue_Idle.png::CompressedTexture2D::3183131733121284294::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBlue_Sheet.png::CompressedTexture2D::5016703756101174650::1722594493::1728033087::1::::<><>::
-::res://assets/ToxicFrog/GreenBrown/::1727952743
+::res://assets/ToxicFrog/GreenBrown/::1728033087
 ToxicFrogGreenBrown_Attack.png::CompressedTexture2D::4120196400463398649::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBrown_Explosion.png::CompressedTexture2D::5349302758445238340::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBrown_Hop.png::CompressedTexture2D::7150259853451650745::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBrown_Hurt.png::CompressedTexture2D::1349876706170157174::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBrown_Idle.png::CompressedTexture2D::6459328838100856202::1722594493::1728033087::1::::<><>::
 ToxicFrogGreenBrown_Sheet.png::CompressedTexture2D::5186303099094421140::1722594493::1728033087::1::::<><>::
-::res://assets/ToxicFrog/PurpleBlue/::1727952743
+::res://assets/ToxicFrog/PurpleBlue/::1728033087
 ToxicFrogPurpleBlue_Attack.png::CompressedTexture2D::6827946944044070598::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleBlue_Explosion.png::CompressedTexture2D::5124415850413221380::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleBlue_Hop.png::CompressedTexture2D::7172577846196416154::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleBlue_Hurt.png::CompressedTexture2D::8852162642966325474::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleBlue_Idle.png::CompressedTexture2D::7436495436729832283::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleBlue_Sheet.png::CompressedTexture2D::172679963843167542::1722594493::1728033087::1::::<><>::
-::res://assets/ToxicFrog/PurpleWhite/::1727952743
+::res://assets/ToxicFrog/PurpleWhite/::1728033087
 ToxicFrogPurpleWhite_Attack.png::CompressedTexture2D::8085972813066661143::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleWhite_Explosion.png::CompressedTexture2D::1009311037206391310::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleWhite_Hop.png::CompressedTexture2D::4507307091863394415::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleWhite_Hurt.png::CompressedTexture2D::7808537118751747668::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleWhite_Idle.png::CompressedTexture2D::3956503637958732451::1722594493::1728033087::1::::<><>::
 ToxicFrogPurpleWhite_Sheet.png::CompressedTexture2D::4479474438645249620::1722594493::1728033087::1::::<><>::
-::res://scenes/::1727953369
-player.tscn::PackedScene::2923838342699295862::1727953369::0::1::::<><>::uid://c2autnt857cb5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/Fall 0 Sprite Sheet.png<>res://scripts/player.gd<>uid://c1ye5fg74x4cp::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/50x50/Idle Sprite 1.png<>uid://bfnwupoxl6ba7::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/50x50/Jump Sprite 0.png<>uid://d0x0chiptpay5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/50x50/Run Sprite 0.png<>res://scripts/state_machine.gd<>res://scripts/Idle.gd<>res://scripts/run.gd<>res://scripts/jump.gd<>res://scripts/fall.gd
-world.tscn::PackedScene::8368547637345596917::1727953152::0::1::::<><>::uid://d2xu5b3vgmthe::::res://icon.svg<>uid://bhwlgqatwnf63::::res://scenes/player.tscn
-::res://scripts/::1727953368
-fall.gd::GDScript::-1::1727952747::0::1::::playerfall<>State<>::
-Idle.gd::GDScript::-1::1727953119::0::1::::playerIdle<>State<>::
-jump.gd::GDScript::-1::1727952747::0::1::::playerjump<>State<>::
-player.gd::GDScript::-1::1727953095::0::1::::player<>CharacterBody2D<>::
-run.gd::GDScript::-1::1727952747::0::1::::playerrun<>State<>::
-state.gd::GDScript::-1::1727953368::0::1::::State<>Node<>::
-state_machine.gd::GDScript::-1::1727952748::0::1::::<>Node<>::
+::res://scenes/::1728036412
+player.tscn::PackedScene::2923838342699295862::1728036412::0::1::::<><>::uid://c2autnt857cb5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Fall/50x50/Fall 0 Sprite Sheet.png<>res://scripts/player.gd<>uid://c1ye5fg74x4cp::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Idle/50x50/Idle Sprite 1.png<>uid://bfnwupoxl6ba7::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Jump/50x50/Jump Sprite 0.png<>uid://d0x0chiptpay5::::res://assets/Dacian Warrior Animated Pixel-Art 2D/Run/50x50/Run Sprite 0.png<>res://scripts/state_machine.gd<>res://scripts/Idle.gd<>res://scripts/run.gd<>res://scripts/jump.gd<>res://scripts/fall.gd<>res://scripts/dash.gd
+world.tscn::PackedScene::8368547637345596917::1728036412::0::1::::<><>::uid://d2xu5b3vgmthe::::res://icon.svg<>uid://bhwlgqatwnf63::::res://scenes/player.tscn
+::res://scripts/::1728036410
+dash.gd::GDScript::-1::1728036410::0::1::::<>State<>::
+fall.gd::GDScript::-1::1728034031::0::1::::playerfall<>State<>::
+Idle.gd::GDScript::-1::1728036376::0::1::::playerIdle<>State<>::
+jump.gd::GDScript::-1::1728034129::0::1::::playerjump<>State<>::
+player.gd::GDScript::-1::1728036376::0::1::::<>CharacterBody2D<>::
+run.gd::GDScript::-1::1728033796::0::1::::playerrun<>State<>::
+state.gd::GDScript::-1::1728033757::0::1::::State<>Node<>::
+state_machine.gd::GDScript::-1::1728033565::0::1::::<>Node<>::
